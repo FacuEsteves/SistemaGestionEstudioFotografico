@@ -1,0 +1,29 @@
+﻿html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    font-family: 'Monserat', sans-serif;
+    text-align: center;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.navbar{
+    text-align: left;
+    font-size: 1.5rem;
+}
+
+h2{
+    color: white;
+}
+
+svg{
+    color: #d0d0d0;
+    height: 3rem;
+    width: 3rem;
+}
+
+button:hover{
+    color: blue;
+}
